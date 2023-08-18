@@ -1,4 +1,3 @@
-<img width="176" alt="Screenshot 2023-08-17 223755" src="https://github.com/Lucianodv/WeatherApp/assets/96886646/471d86b1-e062-4179-a3a7-f6e92a4a1a17">
 # WeatherApp
 
 Esta app de clima obtiene nuestra ubicacion y ademas podemos seleccionar una ciudad para obtener su informacion climatica.
